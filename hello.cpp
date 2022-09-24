@@ -4,5 +4,6 @@ void main()
 {
   clrscr();
   cout<<"Hello World";
+  cout<<"Hi";
   getch();
 }
